@@ -1,0 +1,2 @@
+; Each example is built with it's own makefile
+(data_only_dirs *)
